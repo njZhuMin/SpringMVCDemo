@@ -21,15 +21,5 @@ Demo to demonstrate basic features and usage of SpringMVC framework.
 - PropertyEditor, Formatter and Converter with SpringMVC
 - RESTful support in SpringMVC
 
-## Docs
-
-
-
-
-
-
-
-
-
-
-
+## Article
+See articles on SpringMVC on my blog: https://github.com/njZhuMin/SpringMVCDemo
