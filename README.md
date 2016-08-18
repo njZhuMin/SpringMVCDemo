@@ -22,4 +22,4 @@ Demo to demonstrate basic features and usage of SpringMVC framework.
 - RESTful support in SpringMVC
 
 ## Article
-See articles on SpringMVC on my blog: https://github.com/njZhuMin/SpringMVCDemo
+See articles on SpringMVC on my blog: https://sunnywr.com/blog/
